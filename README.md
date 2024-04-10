@@ -55,7 +55,7 @@ The Python code `main.py` implements the game logic and GUI using the Tkinter li
 
 To play the game:
 
-1. Run the Python script `tictactoe.py`.
+1. Run the Python script `main.py`.
 2. Click on the empty spaces in the GUI to make your move.
 3. The game will alternate between player and AI moves.
 4. The game ends when either player wins or it's a tie. Click "OK" on the message box to start a new game.
